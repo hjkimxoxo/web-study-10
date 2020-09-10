@@ -1,0 +1,30 @@
+@charset "UTF-8";
+insertEmp {
+	text-align:center;
+}
+h2 {
+   text-align:center;
+   font-size:36px;
+}
+
+table {
+   width:100%;
+   max-width:1000px;
+   margin:0 auto;
+   border-collapse:collapse;
+   border-top:2px solid #ff3030;
+   text-align:center;
+}
+table thead td {
+   font-weight:bold;
+   border:1px solid #ddd;
+   border-top:0;
+   background:#f3f3f3;
+   padding:15px 5px;
+}
+
+table tbody td {
+   padding:13px 5px;
+   border:1px solid #ddd;
+   border-top:0;
+}
