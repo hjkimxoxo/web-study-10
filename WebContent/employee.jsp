@@ -82,8 +82,7 @@ $(function(){
 		$("#title").val(${emp.title.titleNo}).prop("selected", true);
 		$("#department").val(${emp.dept.deptNo}).prop("selected", true);
 		
-
-		
+	})	
 	});
 </script>
 </head>
